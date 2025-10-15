@@ -30,7 +30,7 @@ pytest -v .\tests\
 ```
 
 ## Estrutura do projeto
-
+```bash
 task_manager/
 ├── __init__.py
 ├── task.py
@@ -43,3 +43,4 @@ tests/
 └── test_repository.py
 requirements.txt
 README.md
+```
